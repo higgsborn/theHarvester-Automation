@@ -19,3 +19,5 @@ python3 src/automate.py
 4. Once the extraction is done run following to organize the extracted emails
 
 python3 src/get_email.py
+
+Article: https://medium.com/@higgsborn/automate-email-extraction-with-theharvester-8049885b4e2c
